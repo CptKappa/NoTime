@@ -1,0 +1,50 @@
+/Syntax generall
+/<Prefix>;<TargetId>;<TriggerTime>;
+/Syntax data
+/dadat;<TargetId>;<TriggerTime>;
+/Syntax Movement
+/mvdat;<TargetID>;<TriggerTime>;<waypoint_x>;<waypoint_y>;<speed>
+/Syntax Wait
+/wadat;<TargetId>;<TriggerTime>;<duration>;<endTime>(the endTime can be 0 to be automatically created)
+/Syntax Look At
+/ladat;<TargetId>;<TriggerTime>;<lookAt_x>;<lookAt_y>;<duration>;<endTime>;
+/Syntax <Name>
+/player is allways Id = 0
+/all other get Ids in the order they are created in the "characterImport.dat" file
+/Polizist 1 Stern
+mvdat;1;4;5;5;2
+mvdat;1;6;-3;6;3
+mvdat;1;11;6;-4;3
+/Polizist 2 Sterne
+mvdat;2;2;-8.7;-10.3;1.5
+ladat;2;2;-7;-10;2;0
+mvdat;2;4;8.7;-10;2.5
+mvdat;2;5;8.7;7.7;1.5
+mvdat;2;10;17.6;13.6;2
+mvdat;2;10;60;13.6;5
+/Polizist 3 Sterne
+mvdat;3;10;0;0;2
+mvdat;3;10;0;0;2
+mvdat;3;10;0;0;2
+/General
+mvdat;4;10;0;0;2
+mvdat;4;10;0;0;2
+mvdat;4;10;0;0;2
+/Passant 1
+mvdat;5;10;0;0;2
+mvdat;5;10;0;0;2
+mvdat;5;10;0;0;2
+/Passant 2
+mvdat;6;10;0;0;2
+mvdat;6;10;0;0;2
+mvdat;6;10;0;0;2
+/Passant 3
+mvdat;7;10;0;0;2
+mvdat;7;10;0;0;2
+mvdat;7;10;0;0;2
+mvdat;7;10;0;0;2
+/Passant 4
+mvdat;8;10;0;0;2
+mvdat;8;10;0;0;2
+mvdat;8;10;0;0;2
+mvdat;8;10;0;0;2

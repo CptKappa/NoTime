@@ -1,0 +1,9 @@
+Instruction System:
+
+InstructionData:
+There may be different kind of Data that get treated in different ways
+e.g. Movement commands
+Vector2 location
+float speed
+
+InstructionManager

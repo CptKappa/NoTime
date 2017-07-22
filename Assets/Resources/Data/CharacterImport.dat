@@ -1,0 +1,14 @@
+/This File conatins informations about how every character should be created
+/the first (Player) has been done hard coded
+/fill in the desired information in the spaces provided
+/spriteindex is a referenz to the spriteArray
+/<Name0>;<spriteIndex1>;<rigid_mass2>;<rigid_drag3>;<rigid_angularDrag4>;<colliderRadius5>;<start_x6>;<start_y7>
+Polizit1st;1;2;1000;10;1.5;111;-11
+Polizit2st;2;2;1000;10;1.5;-4;-5
+Polizit3st;3;2;1000;10;1.5;101;-11
+General;4;2;1000;10;1.5;8;8
+Passant1;5;1.5;1000;10;1.5;126;12
+Passant2;6;1.5;1000;10;1.5;-45;45
+Passant3;7;1.5;1000;10;1.5;-12;-114
+Passant4;8;1.5;1000;10;1.5;10;55
+/;;;;;;;
