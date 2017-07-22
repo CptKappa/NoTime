@@ -1,0 +1,8 @@
+﻿This file contains instruction on how to write the changelogs
+
+Use '+ ' to indicate a new addition
+Use '-)' to indicate tweaks, changes and imporovements
+Use '# ' to indicate information about Bugs. This can be about known Bugs or Bugfixes
+Use '? ' to indicate plans, thoughts, goals
+
+New Instructions may be added in the future.

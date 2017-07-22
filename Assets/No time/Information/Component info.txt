@@ -1,0 +1,19 @@
+infos für components der Gameobjects;:
+Bald:
+Circle Collider:
+   radius: 1.5
+Rigid Body:
+   Dynamic
+   Mass: 1
+   Linear Drag: 1000
+   Angular Drag: 10
+   Gravity Scale: 0
+Security:
+Circle Collider:
+   radius: 1.4
+Rigid Body:
+   Dynamic
+   Mass: 2
+   Linear Drag: 1000
+   Angular Drag: 10
+   Gravity Scale: 0

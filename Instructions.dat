@@ -1,0 +1,10 @@
+/data
+/dadat;<id>;<triggertime>
+/movement
+/mvdat;<id>;<triggertime>;<waypoint_x>;<waypoint_y>;<speed>
+/player is allways Id = 0
+mvdat;1;4;5;5;2
+mvdat;1;6;-3;6;3
+mvdat;1;11;6;-4;3
+mvdat;2;2;-10;-10;1.5
+mvdat;2;10;0;0;2

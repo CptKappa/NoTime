@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\No time\scripts\Game\Player.cs">
+    <Files>
+      <File FileName="Assets\No time\scripts\Game\WorldController.cs" Line="1" Column="1" />
+      <File FileName="Assets\No time\scripts\Game\Entity.cs" Line="1" Column="1" />
+      <File FileName="Assets\No time\scripts\Game\Player.cs" Line="68" Column="15" />
+      <File FileName="Assets\No time\scripts\Game\Character.cs" Line="1" Column="1" />
+      <File FileName="Assets\No time\scripts\Game\Instructions\InstructionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\No time\scripts\Game\Instructions\InstructionData.cs" Line="1" Column="1" />
+      <File FileName="Assets\No time\scripts\Game\Instructions\InstructionWait.cs" Line="1" Column="1" />
+      <File FileName="Assets\No time\scripts\Game\Instructions\InstructionMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\No time\scripts\Utility\FrameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\No time\scripts\Utility\Spawner.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

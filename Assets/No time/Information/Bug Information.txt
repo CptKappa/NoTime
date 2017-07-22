@@ -1,0 +1,9 @@
+This contains information for Bugs:
+
+1.)
+the Cause for the Frame-Nullreference Error was located!
+After reverting to a Frame the next Frame will still get the next Id from the one asigned before that one
+Status: FIXED
+
+
+
